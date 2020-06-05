@@ -1,5 +1,5 @@
 name: JoinMessages.GUI
 version: ${project.version}
-main: joinmessages.gui.joinmessages.gui.JoinMessages.GUI
+main: com.ReaLhoNz.JoinMessagesGUI.Main
 api-version: 1.15.2
 authors: [ReaLhoNz]

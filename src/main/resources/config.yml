@@ -1,0 +1,3 @@
+JoinMessage: "&a&l+ %player_displayname%"
+DeathMessage:  "&c%player_displayname% Umřel"
+LeaveMessage: "&c&l- %player_displayname%"

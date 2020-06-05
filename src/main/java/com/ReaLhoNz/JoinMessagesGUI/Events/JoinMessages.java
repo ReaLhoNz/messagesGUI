@@ -11,7 +11,7 @@ import org.bukkit.event.entity.PlayerDeathEvent;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 
-public class CustomMessages implements Listener{
+public class JoinMessages implements Listener{
 
 
      @EventHandler (priority = EventPriority.HIGHEST) // EventPriority.HIGHEST aby zprava nebyla modifikovana nikym jinym
